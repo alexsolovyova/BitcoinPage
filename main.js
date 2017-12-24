@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 $(document).ready(function(){
  
 $(window).scroll(function(){
@@ -15,4 +15,4 @@ return false;
 });
  
 });
-</script>
+
