@@ -1,17 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
 
-
-
-
-body {
-  font-family: Roboto Slab;
-  background: white;
-  color: white;
-  height: 100%;
-  width: 100%;
-    padding: 0;
-    margin: 0; }
-	
 	.scrollup{
 width:40px;
 height:40px;
@@ -23,6 +11,17 @@ display:none;
 text-indent:-9999px;
 background: url('http://webmastermix.ru/files/demo/creation-site/raznoe/knopka-vverh/icon_top.png') no-repeat;
 }
+
+
+body {
+  font-family: Roboto Slab;
+  background: white;
+  color: white;
+  height: 100%;
+  width: 100%;
+    padding: 0;
+    margin: 0; }
+
 
 
 .navigation {
